@@ -1,4 +1,4 @@
-.package highClassJava;
+package highClassJava;
 
 import java.lang.Character.Subset;
 import java.util.ArrayList;
