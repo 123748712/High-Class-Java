@@ -1,4 +1,4 @@
-package kr.or.ddit.basic;
+package highClassJava3;
 
 public class T20_WaitNotifyTest {
 	public static void main(String[] args) {
