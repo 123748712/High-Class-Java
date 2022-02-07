@@ -1,4 +1,4 @@
-package kr.or.ddit.basic;
+package highClassJava5;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
