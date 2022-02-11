@@ -23,7 +23,7 @@ public class T02_PropertiesTest {
 			// Properties객체로 파일 내용 읽기
 			prop.load(fis); // 파일 내용을 읽어와 속성이름 및 속성값으로 분류하여 Properties객체에 담아준다.
 			
-			// 읽어오 자료 출력하기
+			// 읽어올 자료 출력하기
 			
 			// key값만 읽어와 Enumeration객체로 반환하기
 			Enumeration<String> keys = (Enumeration<String>) prop.propertyNames();
